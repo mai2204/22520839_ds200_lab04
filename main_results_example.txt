@@ -1,0 +1,460 @@
+[Stage 0:>                                             
+25/07/23 19:00:39 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:39 WARN BlockManager: Block input-0-1753272039400 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 1:>     25/07/23 19:00:40 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:40 WARN BlockManager: Block input-0-1753272040600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:00:42 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:42 WARN BlockManager: Block input-0-1753272041800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:00:43 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:43 WARN BlockManager: Block input-0-1753272043200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:00:44 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:44 WARN BlockManager: Block input-0-1753272044600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:00:46 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:46 WARN BlockManager: Block input-0-1753272046200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:00:47 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:47 WARN BlockManager: Block input-0-1753272047400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:00:49 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:49 WARN BlockManager: Block input-0-1753272049000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:00:50 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:50 WARN BlockManager: Block input-0-1753272050400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:00:52 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:52 WARN BlockManager: Block input-0-1753272051800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:00:53 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:53 WARN BlockManager: Block input-0-1753272053000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:00:55 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:55 WARN BlockManager: Block input-0-1753272054800 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+25/07/23 19:00:56 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:56 WARN BlockManager: Block input-0-1753272056600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:00:58 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:58 WARN BlockManager: Block input-0-1753272058000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:00:59 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:00:59 WARN BlockManager: Block input-0-1753272059200 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 2:>     25/07/23 19:01:01 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:01 WARN BlockManager: Block input-0-1753272060800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:02 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:02 WARN BlockManager: Block input-0-1753272062400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:04 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:04 WARN BlockManager: Block input-0-1753272064600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:06 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:06 WARN BlockManager: Block input-0-1753272066200 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 3:>     25/07/23 19:01:08 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:08 WARN BlockManager: Block input-0-1753272068000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:09 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:09 WARN BlockManager: Block input-0-1753272069600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:11 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:11 WARN BlockManager: Block input-0-1753272071400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:13 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:13 WARN BlockManager: Block input-0-1753272072800 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+25/07/23 19:01:14 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:14 WARN BlockManager: Block input-0-1753272074400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:16 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:16 WARN BlockManager: Block input-0-1753272076000 replicated to only 0 peer(s) instead of 1 peers
+==========
+Predictions = [6 9 9 4 1 1 2 7 8 3 4 7 7 2 9 9 9 3 2 6 4 3 6 6 2 6 3 5 4 0 0 9 1 3 4 0 3
+ 7 3 3 5 2 2 7 1 1 1 2 2 0 9 5 7 9 2 2 5 2 4 3 1 1 8 2 1 1 4 9 7 8 5 9 6 7
+ 3 1 9 0 3 1 3 5 4 5 7 7 4 7 9 4 2 3 8 0 1 6 1 1 4 1]  
+Accuracy = 1.0
+Precision = 1.0
+Recall = 1.0
+F1 Score = 1.0
+==========
+[Stage 0:>                  (0 + 1) / 1][Stage 4:>     25/07/23 19:01:17 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:17 WARN BlockManager: Block input-0-1753272077400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:18 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:18 WARN BlockManager: Block input-0-1753272078600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:20 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:20 WARN BlockManager: Block input-0-1753272080400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:22 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:22 WARN BlockManager: Block input-0-1753272082000 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+Total Batch Size of RDD Received : 100
+++++++++++++++++++++
+[Stage 0:>                  (0 + 1) / 1][Stage 5:>     25/07/23 19:01:24 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:24 WARN BlockManager: Block input-0-1753272083800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:25 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:25 WARN BlockManager: Block input-0-1753272085400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:27 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:27 WARN BlockManager: Block input-0-1753272087000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:29 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:29 WARN BlockManager: Block input-0-1753272088800 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 6:>     25/07/23 19:01:30 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:30 WARN BlockManager: Block input-0-1753272090600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:32 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:32 WARN BlockManager: Block input-0-1753272092000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:34 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:34 WARN BlockManager: Block input-0-1753272093800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:36 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:36 WARN BlockManager: Block input-0-1753272095800 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 7:>     25/07/23 19:01:38 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:38 WARN BlockManager: Block input-0-1753272097800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:39 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:39 WARN BlockManager: Block input-0-1753272099400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:41 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:41 WARN BlockManager: Block input-0-1753272101200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:43 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:43 WARN BlockManager: Block input-0-1753272103200 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+25/07/23 19:01:45 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:45 WARN BlockManager: Block input-0-1753272105000 replicated to only 0 peer(s) instead of 1 peers
+==========
+Predictions = [8 3 9 6 6 1 8 5 2 9 9 8 1 7 7 0 0 6 9 1 2 2 9 2 6 6 1 9 5 0 4 7 6 7 1 8 1
+ 1 2 8 1 3 3 6 2 4 9 9 5 4 3 6 7 4 6 8 5 5 4 3 1 8 4 7 6 0 9 5 1 3 8 2 7 5
+ 3 4 1 5 7 0 4 7 5 5 1 0 9 6 9 0 8 7 8 8 2 5 2 3 5 0]  
+Accuracy = 1.0
+Precision = 1.0
+Recall = 1.0
+F1 Score = 1.0
+==========
+25/07/23 19:01:46 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:46 WARN BlockManager: Block input-0-1753272106400 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 8:>     25/07/23 19:01:48 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:48 WARN BlockManager: Block input-0-1753272108200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:50 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:50 WARN BlockManager: Block input-0-1753272109800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:51 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:51 WARN BlockManager: Block input-0-1753272111400 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+Total Batch Size of RDD Received : 100
+++++++++++++++++++++
+[Stage 0:>                  (0 + 1) / 1][Stage 9:>     25/07/23 19:01:52 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:52 WARN BlockManager: Block input-0-1753272112600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:54 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:54 WARN BlockManager: Block input-0-1753272114200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:01:56 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:56 WARN BlockManager: Block input-0-1753272115800 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+25/07/23 19:01:57 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:57 WARN BlockManager: Block input-0-1753272117400 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 10:>    25/07/23 19:01:58 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:01:58 WARN BlockManager: Block input-0-1753272118600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:00 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:00 WARN BlockManager: Block input-0-1753272120000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:01 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:01 WARN BlockManager: Block input-0-1753272121600 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 10:=====25/07/23 19:02:03 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:03 WARN BlockManager: Block input-0-1753272123200 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+25/07/23 19:02:04 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:04 WARN BlockManager: Block input-0-1753272124600 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 11:>    25/07/23 19:02:06 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:06 WARN BlockManager: Block input-0-1753272126000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:07 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:07 WARN BlockManager: Block input-0-1753272127600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:09 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:09 WARN BlockManager: Block input-0-1753272129200 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 11:=====25/07/23 19:02:11 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:11 WARN BlockManager: Block input-0-1753272130800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:13 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:13 WARN BlockManager: Block input-0-1753272132800 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+25/07/23 19:02:15 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:15 WARN BlockManager: Block input-0-1753272134800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:17 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:17 WARN BlockManager: Block input-0-1753272136800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:18 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:18 WARN BlockManager: Block input-0-1753272138600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:20 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:20 WARN BlockManager: Block input-0-1753272140000 replicated to only 0 peer(s) instead of 1 peers
+==========
+Predictions = [6 1 9 3 6 9 1 3 9 6 6 7 1 0 9 5 8 5 2 9 0 8 8 0 6 9 1 1 6 3 7 6 6 0 6 6 1
+ 7 1 5 8 3 6 6 8 6 8 4 6 6 1 3 8 3 4 1 7 1 3 8 5 1 1 4 0 9 3 7 4 9 9 2 4 9
+ 9 1 0 5 9 0 8 2 1 2 0 5 6 3 2 7 8 8 6 0 7 9 4 5 6 4 2 1 1 2 1 5 9 9 0 8 4
+ 1 1 6 3 3 9 0 7 9 7 7 9 1 5 1 6 6 8 7 1 3 0 3 3 2 4 5 7 5 9 0 3 4 0 4 4 6
+ 0 0 6 6 0 8 1 6 2 9 2 5 9 6 7 4 1 8 7 3 6 9 3 0 4 0 5 1 0 3 4 8 5 4 7 2 3
+ 9 7 6 7 1 4 7 0 1 7 3 1 8 4 4]
+Accuracy = 1.0
+Precision = 1.0
+Recall = 1.0
+F1 Score = 1.0
+==========
+25/07/23 19:02:22 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:22 WARN BlockManager: Block input-0-1753272141800 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 12:>    25/07/23 19:02:24 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:24 WARN BlockManager: Block input-0-1753272144000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:26 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:26 WARN BlockManager: Block input-0-1753272145800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:27 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:27 WARN BlockManager: Block input-0-1753272147200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:29 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:29 WARN BlockManager: Block input-0-1753272149000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:31 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:31 WARN BlockManager: Block input-0-1753272151000 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 12:=====                                                       
+Total Batch Size of RDD Received : 200
+++++++++++++++++++++
+25/07/23 19:02:32 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:32 WARN BlockManager: Block input-0-1753272152600 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 13:>    25/07/23 19:02:34 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:34 WARN BlockManager: Block input-0-1753272154000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:36 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:36 WARN BlockManager: Block input-0-1753272155800 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+25/07/23 19:02:37 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:37 WARN BlockManager: Block input-0-1753272157400 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 14:>    25/07/23 19:02:39 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:39 WARN BlockManager: Block input-0-1753272158800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:40 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:40 WARN BlockManager: Block input-0-1753272160000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:42 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:42 WARN BlockManager: Block input-0-1753272161800 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 15:>    25/07/23 19:02:43 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:43 WARN BlockManager: Block input-0-1753272163200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:45 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:45 WARN BlockManager: Block input-0-1753272164800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:46 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:46 WARN BlockManager: Block input-0-1753272166200 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+25/07/23 19:02:48 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:48 WARN BlockManager: Block input-0-1753272167800 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                                             
+==========   (0 + 1) / 1]
+Predictions = [2 0 2 2 0 0 9 0 9 6 8 2 7 7 4 0 3 0 8 9 4 2 7 2 5 2 5 1 9 4 8 5 1 7 4 4 0
+ 6 9 0 7 8 8 9 9 3 3 4 0 4 5 6 6 0 1 0 8 0 4 8 8 1 5 2 6 8 1 0 0 7 7 5 9 6
+ 2 8 3 4 7 3 9 0 1 2 4 8 1 8 6 4 4 5 7 1 3 9 8 0 1 7]  
+Accuracy = 1.0
+Precision = 1.0
+Recall = 1.0
+F1 Score = 1.0
+==========
+[Stage 0:>                  (0 + 1) / 1][Stage 16:>    25/07/23 19:02:49 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:49 WARN BlockManager: Block input-0-1753272169400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:51 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:51 WARN BlockManager: Block input-0-1753272170800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:52 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:52 WARN BlockManager: Block input-0-1753272172200 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+Total Batch Size of RDD Received : 100
+++++++++++++++++++++
+[Stage 0:>                  (0 + 1) / 1][Stage 17:>    25/07/23 19:02:53 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:53 WARN BlockManager: Block input-0-1753272173600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:55 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:55 WARN BlockManager: Block input-0-1753272175200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:57 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:57 WARN BlockManager: Block input-0-1753272176800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:02:58 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:58 WARN BlockManager: Block input-0-1753272178200 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 18:>    25/07/23 19:02:59 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:02:59 WARN BlockManager: Block input-0-1753272179600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:01 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:01 WARN BlockManager: Block input-0-1753272181400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:03 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:03 WARN BlockManager: Block input-0-1753272183200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:04 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:04 WARN BlockManager: Block input-0-1753272184600 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 18:=====25/07/23 19:03:06 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:06 WARN BlockManager: Block input-0-1753272186200 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 19:>    25/07/23 19:03:08 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:08 WARN BlockManager: Block input-0-1753272187800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:09 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:09 WARN BlockManager: Block input-0-1753272189400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:11 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:11 WARN BlockManager: Block input-0-1753272190800 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 19:=====25/07/23 19:03:12 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:12 WARN BlockManager: Block input-0-1753272192600 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+25/07/23 19:03:14 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:14 WARN BlockManager: Block input-0-1753272194400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:16 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:16 WARN BlockManager: Block input-0-1753272196200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:17 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:17 WARN BlockManager: Block input-0-1753272197600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:22 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:22 WARN BlockManager: Block input-0-1753272201800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:23 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:23 WARN BlockManager: Block input-0-1753272203600 replicated to only 0 peer(s) instead of 1 peers
+==========
+Predictions = [5 8 2 8 0 4 1 8 9 8 2 9 9 2 7 5 7 3 8 8 4 4 2 7 1 6 4 0 4 6 9 7 6 2 5 5 1
+ 7 2 2 2 9 5 4 2 7 8 1 3 4 3 7 6 9 8 0 6 0 2 2 2 1 8 4 0 1 8 8 1 5 7 6 4 5
+ 8 7 1 9 1 9 8 4 7 3 8 8 2 6 6 7 1 6 8 1 9 7 8 3 0 1 0 8 8 3 0 0 1 5 0 8 8
+ 7 9 9 0 9 4 1 3 6 6 4 4 7 5 6 0 8 0 3 2 8 4 6 9 9 7 0 3 3 6 7 4 9 1 6 2 7
+ 2 2 0 6 7 5 7 6 8 9 0 9 4 4 7 0 9 4 9 6 9 4 5 7 9 2 4 5 1 4 3 9 6 5 6 9 3
+ 3 5 0 7 2 1 3 6 4 0 0 2 5 0 1]
+Accuracy = 1.0
+Precision = 1.0
+Recall = 1.0
+F1 Score = 1.0
+==========
+25/07/23 19:03:25 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:25 WARN BlockManager: Block input-0-1753272205200 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 20:>    25/07/23 19:03:26 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:26 WARN BlockManager: Block input-0-1753272206400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:28 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:28 WARN BlockManager: Block input-0-1753272208200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:30 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:30 WARN BlockManager: Block input-0-1753272210000 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 20:=====25/07/23 19:03:32 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:32 WARN BlockManager: Block input-0-1753272211800 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+Total Batch Size of RDD Received : 200
+++++++++++++++++++++
+25/07/23 19:03:33 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:33 WARN BlockManager: Block input-0-1753272213400 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 21:>    25/07/23 19:03:35 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:35 WARN BlockManager: Block input-0-1753272215000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:36 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:36 WARN BlockManager: Block input-0-1753272216600 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+25/07/23 19:03:38 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:38 WARN BlockManager: Block input-0-1753272218400 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 22:>    25/07/23 19:03:40 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:40 WARN BlockManager: Block input-0-1753272220000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:41 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:41 WARN BlockManager: Block input-0-1753272221600 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+25/07/23 19:03:43 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:43 WARN BlockManager: Block input-0-1753272223400 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 23:>    25/07/23 19:03:45 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:45 WARN BlockManager: Block input-0-1753272225000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:46 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:46 WARN BlockManager: Block input-0-1753272226400 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+25/07/23 19:03:48 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:48 WARN BlockManager: Block input-0-1753272228200 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                                             
+25/07/23 19:03:50 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:50 WARN BlockManager: Block input-0-1753272229800 replicated to only 0 peer(s) instead of 1 peers
+==========
+Predictions = [0 2 3 9 8 4 9 8 0 2 6 4 4 0 1 8 8 3 6 9 6 6 7 8 2 4 5 7 6 5 3 0 5 0 5 0 8
+ 2 6 7 3 8 2 1 7 6 7 1 0 9 5 5 0 1 7 6 9 0 4 7 7 1 5 9 4 0 8 5 9 9 6 7 1 8
+ 3 2 3 8 2 2 4 6 0 0 5 3 8 2 3 7 2 9 3 8 7 8 2 7 9 0]  
+Accuracy = 1.0
+Precision = 1.0
+Recall = 1.0
+F1 Score = 1.0
+==========
+[Stage 0:>                  (0 + 1) / 1][Stage 24:>    25/07/23 19:03:51 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:51 WARN BlockManager: Block input-0-1753272231400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:53 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:53 WARN BlockManager: Block input-0-1753272233000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:54 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:54 WARN BlockManager: Block input-0-1753272234600 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+Total Batch Size of RDD Received : 100
+++++++++++++++++++++
+25/07/23 19:03:56 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:56 WARN BlockManager: Block input-0-1753272236200 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 25:>    25/07/23 19:03:58 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:58 WARN BlockManager: Block input-0-1753272238000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:03:59 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:03:59 WARN BlockManager: Block input-0-1753272239200 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                  (0 + 1) / 1][Stage 26:>    25/07/23 19:04:01 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:01 WARN BlockManager: Block input-0-1753272241000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:02 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:02 WARN BlockManager: Block input-0-1753272242600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:04 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:04 WARN BlockManager: Block input-0-1753272244400 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                  (0 + 1) / 1][Stage 27:>    25/07/23 19:04:06 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:06 WARN BlockManager: Block input-0-1753272245800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:07 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:07 WARN BlockManager: Block input-0-1753272247200 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+25/07/23 19:04:09 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:09 WARN BlockManager: Block input-0-1753272248800 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                                             
+==========   (0 + 1) / 1]
+Predictions = [2 3 2 2 2 3 3 6 2 3 2 8 0 5 5 1 4 5 6 6 2 7 0 1 7 7 8 2 9 2 2 4 2 1 1 1 6
+ 6 6 5 1 1 7 0 4 3 3 7 1 2 3 5 5 5 6 1 4 3 7 8 8 3 6 6 2 3 0 9 4 3 8 0 0 1
+ 1 5 4 9 3 1 8 9 3 9 9 2 9 4 8 2 9 8 8 1 5 3 6 8 7 6]  
+Accuracy = 1.0
+Precision = 1.0
+Recall = 1.0
+F1 Score = 1.0
+==========
+[Stage 0:>                  (0 + 1) / 1][Stage 28:>    25/07/23 19:04:10 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:10 WARN BlockManager: Block input-0-1753272250400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:12 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:12 WARN BlockManager: Block input-0-1753272251800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:13 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:13 WARN BlockManager: Block input-0-1753272253400 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+Total Batch Size of RDD Received : 100
+++++++++++++++++++++
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 29:>    25/07/23 19:04:15 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:15 WARN BlockManager: Block input-0-1753272254800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:16 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:16 WARN BlockManager: Block input-0-1753272256400 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+25/07/23 19:04:18 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:18 WARN BlockManager: Block input-0-1753272257800 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 30:>    25/07/23 19:04:19 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:19 WARN BlockManager: Block input-0-1753272259200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:20 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:20 WARN BlockManager: Block input-0-1753272260600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:22 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:22 WARN BlockManager: Block input-0-1753272262200 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 30:=====25/07/23 19:04:24 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:24 WARN BlockManager: Block input-0-1753272263800 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+[Stage 0:>                                             
+[Stage 0:>                  (0 + 1) / 1][Stage 31:>    25/07/23 19:04:25 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:25 WARN BlockManager: Block input-0-1753272265000 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:26 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:26 WARN BlockManager: Block input-0-1753272266400 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:27 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:27 WARN BlockManager: Block input-0-1753272267600 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 31:=====25/07/23 19:04:29 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:29 WARN BlockManager: Block input-0-1753272269400 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+25/07/23 19:04:31 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:31 WARN BlockManager: Block input-0-1753272270800 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                                             
+25/07/23 19:04:32 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:32 WARN BlockManager: Block input-0-1753272272200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:33 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:33 WARN BlockManager: Block input-0-1753272273600 replicated to only 0 peer(s) instead of 1 peers
+==========
+Predictions = [9 8 0 6 4 0 0 2 5 8 2 0 2 7 6 9 7 1 5 5 6 6 3 6 2 4 7 0 5 6 4 6 5 2 4 6 1
+ 6 0 4 0 3 1 8 5 4 4 1 7 3 9 4 7 9 7 3 7 2 8 4 6 6 1 2 9 0 4 8 7 3 9 8 7 7
+ 0 2 4 1 1 4 1 5 4 0 5 6 2 8 5 0 2 1 3 5 7 3 5 1 3 5 9 4 3 2 4 4 1 4 2 2 3
+ 8 0 6 8 5 6 6 4 7 1 1 4 6 2 3 9 6 9 1 3 6 8 5 9 6 8 1 6 0 2 3 7 9 0 9 7 6
+ 3 9 2 6 1 6 7 3 8 3 8 3 8 5 9 6 1 2 5 2 1 4 3 7 5 9 3 9 3 2 9 1 8 5 9 7 2
+ 6 0 8 5 7 1 5 8 5 7 1 5 0 3 9]
+Accuracy = 1.0
+Precision = 1.0
+Recall = 1.0
+F1 Score = 1.0
+==========
+25/07/23 19:04:35 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:35 WARN BlockManager: Block input-0-1753272275200 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 32:>    25/07/23 19:04:36 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:36 WARN BlockManager: Block input-0-1753272276600 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:38 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:38 WARN BlockManager: Block input-0-1753272278200 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:40 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:40 WARN BlockManager: Block input-0-1753272279800 replicated to only 0 peer(s) instead of 1 peers
+25/07/23 19:04:41 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:41 WARN BlockManager: Block input-0-1753272281400 replicated to only 0 peer(s) instead of 1 peers
+[Stage 0:>                  (0 + 1) / 1][Stage 32:=====25/07/23 19:04:42 WARN RandomBlockReplicationPolicy: Expecting 1 replicas with only 0 peer/s.
+25/07/23 19:04:42 WARN BlockManager: Block input-0-1753272282600 replicated to only 0 peer(s) instead of 1 peers
+                                                       
+Total Batch Size of RDD Received : 200

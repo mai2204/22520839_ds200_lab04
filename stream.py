@@ -14,7 +14,7 @@ parser.add_argument('--endless', '-e', help='Enable endless stream',required=Fal
 parser.add_argument('--split','-s', help="training or test split", required=False, type=str, default='train')
 parser.add_argument('--sleep','-t', help="streaming interval", required=False, type=int, default=3)
 
-TCP_IP = "localhost"
+TCP_IP = "192.168.1.12"
 TCP_PORT = 6100
 
 class Dataset:
@@ -42,7 +42,7 @@ class Dataset:
         
         return batch
 
-    def sendCIFARBatchFileToSpark(self, tcp_connection, input_batch_file, batch_size, split="train"):
+    def sendCIFARBatchFileToSpark(self, tcp_connection, input_batch_file, batch_size, split="train", sleep_time=3):
         if split == "train":
             total_batch = 50_000 / batch_size + 1
         else:
@@ -91,7 +91,7 @@ class Dataset:
 
         return connection, address
 
-    def streamCIFARDataset(self, tcp_connection, folder, batch_size):
+    def streamCIFARDataset(self, tcp_connection, folder, batch_size, split, sleep_time):
         CIFAR_BATCHES = [
             os.path.join(folder, 'data_batch_1'),
             os.path.join(folder, 'data_batch_2'),
@@ -100,8 +100,9 @@ class Dataset:
             os.path.join(folder, 'data_batch_5'),
             os.path.join(folder, 'test_batch'),
         ]
-        CIFAR_BATCHES = CIFAR_BATCHES[:-1] if train_test_split=='train' else [CIFAR_BATCHES[-1]]
-        self.sendCIFARBatchFileToSpark(tcp_connection, CIFAR_BATCHES, batch_size, train_test_split)
+        CIFAR_BATCHES = CIFAR_BATCHES[:-1] if split == 'train' else [CIFAR_BATCHES[-1]]
+        self.sendCIFARBatchFileToSpark(tcp_connection, CIFAR_BATCHES, batch_size, split, sleep_time)
+
 
 if __name__ == '__main__':
     args = parser.parse_args()
@@ -116,8 +117,8 @@ if __name__ == '__main__':
     
     if endless:
         while True:
-            dataset.streamCIFARDataset(tcp_connection, data_folder, batch_size)
+            dataset.streamCIFARDataset(tcp_connection, data_folder, batch_size, train_test_split, sleep_time)
     else:
-        dataset.streamCIFARDataset(tcp_connection, data_folder, batch_size)
+        dataset.streamCIFARDataset(tcp_connection, data_folder, batch_size, train_test_split, sleep_time)
 
     tcp_connection.close()
